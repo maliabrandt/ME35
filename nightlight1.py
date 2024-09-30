@@ -16,7 +16,7 @@ from secrets import WiFi
 #connect to the WiFi!
 wf = WiFi()
 wf.connect_home()
-
+#test edit
 #################################################begin code############################################
 
 class nightlight:
